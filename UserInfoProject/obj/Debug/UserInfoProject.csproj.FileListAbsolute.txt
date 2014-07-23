@@ -1,0 +1,10 @@
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoProject\bin\Debug\UserInfoProject.dll.config
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoProject\bin\Debug\UserInfoProject.dll
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoProject\bin\Debug\UserInfoProject.pdb
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoProject\bin\Debug\EntityFramework.dll
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoProject\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoProject\bin\Debug\EntityFramework.xml
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoProject\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoProject\obj\Debug\UserInfoProject.dll
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoProject\obj\Debug\UserInfoProject.pdb
+c:\Users\dioscar\Documents\Visual Studio 2013\Projects\UserInfo\UserInfoProject\obj\Debug\UserInfoProject.csprojResolveAssemblyReference.cache

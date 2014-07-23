@@ -1,0 +1,9 @@
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoContext\bin\Debug\UserInfoContext.dll.config
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoContext\bin\Debug\UserInfoContext.dll
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoContext\bin\Debug\UserInfoContext.pdb
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoContext\bin\Debug\EntityFramework.dll
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoContext\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoContext\bin\Debug\EntityFramework.xml
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoContext\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoContext\obj\Debug\UserInfoContext.dll
+c:\Users\dioscar\documents\visual studio 2013\Projects\UserInfo\UserInfoContext\obj\Debug\UserInfoContext.pdb
