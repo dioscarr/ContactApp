@@ -7,3 +7,13 @@ c:\Users\dioscar\Documents\Visual Studio 2013\Projects\UserInfo\Contact.Data\bin
 c:\Users\dioscar\Documents\Visual Studio 2013\Projects\UserInfo\Contact.Data\bin\Debug\EntityFramework.SqlServer.xml
 c:\Users\dioscar\Documents\Visual Studio 2013\Projects\UserInfo\Contact.Data\obj\Debug\Contact.Data.dll
 c:\Users\dioscar\Documents\Visual Studio 2013\Projects\UserInfo\Contact.Data\obj\Debug\Contact.Data.pdb
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\bin\Debug\Contact.Data.dll.config
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\bin\Debug\Contact.Data.dll
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\bin\Debug\Contact.Data.pdb
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\bin\Debug\EntityFramework.dll
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\bin\Debug\EntityFramework.xml
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\obj\Debug\Contact.Data.csprojResolveAssemblyReference.cache
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\obj\Debug\Contact.Data.dll
+C:\Users\dioscar\Source\Repos\ContactApp\Contact.Data\obj\Debug\Contact.Data.pdb
